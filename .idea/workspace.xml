@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4f1d576-30a4-4d56-a280-d75b8e4870be" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1165219030">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_case/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="722">
+              <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_case/test_Login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1064">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_case/test_Orders.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="446">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_case/test_UserQuery.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file/demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runtest/runtest_all.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/SendEmail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+              <folding>
+                <element signature="e#16#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/runtest.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_classify_in.py" />
+        <option value="$PROJECT_DIR$/runtest/rentest_login.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_series_delete_cancel.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_series_query_id.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_classify_main_add_name_null.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_classify_main_add_order_null.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_classify_main_add_picture_null.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_classify_main_add_cancel.py" />
+        <option value="$PROJECT_DIR$/runtest/runtest_series.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_classify_main_delete_cansel.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_classify_main_edit_name_null.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_classify_main_edit_order_null.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_classify_main_delete.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_classify_main_edit_cancel.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_classify_main_edit.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_classify_main_add.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_classify_sub_add_cancel.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_classify_sub_add_name_null.py" />
+        <option value="$PROJECT_DIR$/test_case/test_peoduct_classify_sub_add_order_null.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_classify_sub_add_picture_null.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_classify_sub_add.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_classify_sub_delete.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_classify_sub_delete_cancel.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_classify_sub_edit.py" />
+        <option value="$PROJECT_DIR$/runtest/runtest_classify.py" />
+        <option value="$PROJECT_DIR$/runtest/demo.py" />
+        <option value="$PROJECT_DIR$/1demo/1.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_classify_sub_edit_order_null.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_classify_sub_edit_name_null.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_list_edit_picture1.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_list_edit_brand.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_list_edit_MPGS.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_list_edit_series.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_list_edit_grade.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_list_edit.py" />
+        <option value="$PROJECT_DIR$/test_case/test_product_list_in.py" />
+        <option value="$PROJECT_DIR$/file/demo.py" />
+        <option value="$PROJECT_DIR$/test_case/test_login_normal.py" />
+        <option value="$PROJECT_DIR$/test_case/test_logintest.py" />
+        <option value="$PROJECT_DIR$/test_case/test_login.py" />
+        <option value="$PROJECT_DIR$/test_case/test_UserRoleQuery.py" />
+        <option value="$PROJECT_DIR$/test_case/test_Login.py" />
+        <option value="$PROJECT_DIR$/test_case/test_UserQuery.py" />
+        <option value="$PROJECT_DIR$/test_case/__init__.py" />
+        <option value="$PROJECT_DIR$/test_case/test_AddCart.py" />
+        <option value="$PROJECT_DIR$/test_case/test_Orders.py" />
+        <option value="$PROJECT_DIR$/1.py" />
+        <option value="$PROJECT_DIR$/runtest/runtest_all.py" />
+        <option value="$PROJECT_DIR$/framework/ddd.py" />
+        <option value="$PROJECT_DIR$/framework/SendEmail.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="481" />
+    <option name="y" value="92" />
+    <option name="width" value="1257" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test_project - 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_project - 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_project - 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_project - 1" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_project - 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_project - 1" type="462c0819:PsiDirectoryNode" />
+              <item name="runtest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_project - 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_project - 1" type="462c0819:PsiDirectoryNode" />
+              <item name="test_case" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xuexi\test\test_project\runtest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xuexi\test\test_project\test_case" />
+      <recent name="E:\xuexi\test\test_project\test_case\series_test_case" />
+      <recent name="E:\xuexi\test\test_project\test_case\login_test_case" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test_Login">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SendEmail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/framework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/framework/SendEmail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runtest_all" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runtest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runtest/runtest_all.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_Login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_case/test_Login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_UserQuery.UserQueryTest.test_userquery_phone" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="test_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_UserQuery.UserQueryTest.test_userquery_phone&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for test_UserQuery.UserQueryTest.test_userquery_phone" />
+      <item itemvalue="Python.runtest_all" />
+      <item itemvalue="Python.1" />
+      <item itemvalue="Python.SendEmail" />
+      <item itemvalue="Python.test_Login" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_Login" />
+        <item itemvalue="Python.SendEmail" />
+        <item itemvalue="Python.runtest_all" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python tests.Unittests for test_UserQuery.UserQueryTest.test_userquery_phone" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4f1d576-30a4-4d56-a280-d75b8e4870be" name="Default" comment="" />
+      <created>1524815871912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524815871912</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_UserQuery_UserQueryTest_test_insystemmanagement - 2018.07.25 at 14h 25m 37s.xml">
+      <configuration name="Unittests for test_UserQuery.UserQueryTest.test_insystemmanagement" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_Orders_AddCartTest_test_inorderpage - 2018.07.25 at 14h 26m 26s.xml">
+      <configuration name="Unittests for test_Orders.AddCartTest.test_inorderpage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_Orders_AddCartTest_test_inorderpage - 2018.07.25 at 14h 27m 23s.xml">
+      <configuration name="Unittests for test_Orders.AddCartTest.test_inorderpage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_Orders_AddCartTest_test_inorderpage - 2018.07.25 at 14h 27m 51s.xml">
+      <configuration name="Unittests for test_Orders.AddCartTest.test_inorderpage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_Orders_AddCartTest_test_specificationedit_in - 2018.07.25 at 15h 04m 59s.xml">
+      <configuration name="Unittests for test_Orders.AddCartTest.test_specificationedit_in" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_Orders_AddCartTest_test_specificationedit_in - 2018.07.25 at 15h 06m 00s.xml">
+      <configuration name="Unittests for test_Orders.AddCartTest.test_specificationedit_in" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_Orders_AddCartTest_test_specificationedit_in - 2018.07.25 at 15h 07m 09s.xml">
+      <configuration name="Unittests for test_Orders.AddCartTest.test_specificationedit_in" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_Orders_AddCartTest_test_specificationedit_in - 2018.07.25 at 15h 07m 50s.xml">
+      <configuration name="Unittests for test_Orders.AddCartTest.test_specificationedit_in" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_Orders_AddCartTest_test_editspecification_in - 2018.07.25 at 15h 16m 39s.xml">
+      <configuration name="Unittests for test_Orders.AddCartTest.test_editspecification_in" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_UserQuery_UserQueryTest_test_userquery_phone - 2018.07.30 at 13h 50m 53s.xml">
+      <configuration name="Unittests for test_UserQuery.UserQueryTest.test_userquery_phone" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6819672" visible="true" weight="0.19419643" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.3180328" side_tool="true" visible="true" weight="0.19419643" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32946146" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37540984" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915523" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_series_delete.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_classify_main_edit_order_null.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_series_add.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_classify_sub_add_cancel.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_classify_sub_add_name_null.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_classify_main_add_picture_null.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_classify_sub_add_picture_null.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_classify_sub_add_order_null.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_classify_sub_delete_cancel.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_classify_main_delete.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_classify_sub_delete.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_classify_sub_add.py" />
+    <entry file="file://$PROJECT_DIR$/runtest/demo.py" />
+    <entry file="file://$PROJECT_DIR$/1demo/1.py" />
+    <entry file="file://$PROJECT_DIR$/runtest/runtest_classify.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_classify_sub_edit_name_null.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_classify_sub_edit_order_null.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_classify_in.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_classify_main_edit_name_null.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_classify_main_add.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_classify_sub_edit.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_classify_main_add_name_null.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="954" selection-start-line="954" selection-end-line="954" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Selenium-python-master/Selenium-python-master/app/pageobjects/homepage/home.py" />
+    <entry file="file://$USER_HOME$/Downloads/Selenium-python-master/Selenium-python-master/all_tests.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_classify_main_edit.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_list_edit_MPGS.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_list_edit_picture1.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_list_edit_series.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_list_edit_grade.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_list_edit_brand.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_list_edit.py" />
+    <entry file="file://D:/Program Files/python/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="604" selection-start-line="604" selection-end-line="604" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_list_in.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_loginnull.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_login_password_error.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_login_username_error.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_login_error.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_product_classify_main_edit_cancel.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/test_logintest.py" />
+    <entry file="file://$PROJECT_DIR$/1.py" />
+    <entry file="file://$USER_HOME$/jxs.luobobb.com/framework/SendEmail.py" />
+    <entry file="file://$PROJECT_DIR$/framework/ddd.py" />
+    <entry file="file://$USER_HOME$/jxs.luobobb.com/runAll.py" />
+    <entry file="file://$PROJECT_DIR$/test_case/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/SendEmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <element signature="e#16#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runtest/runtest_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test_UserQuery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test_Orders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test_Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1064">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
